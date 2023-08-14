@@ -155,7 +155,7 @@ details {
   color: white;
   background: linear-gradient(to right, #435b6e 60%, transparent 50%), url(img/Screenshot\ \(137\).png);
   background-position: right;
-  background-size: contain;
+  background-size: auto;
   background-repeat: no-repeat;
   padding: 10px;
   margin: 20px;
@@ -164,7 +164,7 @@ details {
   color: white;
   background: linear-gradient(to right, #435b6e 60%, transparent 50%), url(img/craiyon_095147_Futuristic_skyscapers_heights_background.png);
   background-position: right;
-  background-size: contain;
+  background-size: auto;
   background-repeat: no-repeat;
   padding: 10px;
   margin: 20px;
