@@ -40,6 +40,7 @@ footer {
 
 summary{
   padding-left: 10px;
+  font-style: oblique;
 }
 
 /* Style the top navigation bar */
@@ -216,6 +217,6 @@ details {
   background-color: #333;
 }
 
-title {
+header {
   cursor: default;
 }
