@@ -187,9 +187,10 @@ details {
 
 /*Stylish download button*/
 .info {
+  margin: 5px;
   border-radius: 70px;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
   float: right;
   border-color: #2196F3;
   color: white
@@ -200,3 +201,17 @@ details {
   color: white;
 }
 
+.unavailable{
+  margin: 5px;
+  border-radius: 70px;
+  padding-left: 30px;
+  padding-right: 30px;
+  float: right;
+  border-color: #2196F3;
+  color: rgb(84, 81, 90);
+  cursor: default;
+}
+
+.unavailable:hover {
+  background-color: #333;
+}
