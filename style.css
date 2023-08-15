@@ -215,3 +215,7 @@ details {
 .unavailable:hover {
   background-color: #333;
 }
+
+title {
+  cursor: default;
+}
